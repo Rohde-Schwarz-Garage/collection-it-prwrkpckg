@@ -25,7 +25,7 @@ Beim Beginn der einzelnen Projekte ist es sinnvoll, jeweils eine frische Raspber
 |--------------|---------------|-----------|
 |[**Raspberry Pi**](<Raspberry Pi/>)|/|In diesem Projekt lernst du die Grundlagen von Linux kennen und wie man einen Raspberry Pi verwendet.|
 |[**Git**](Git/)|/|Hier findest du eine Einführung in das Versionsverwaltungssystem Git.|
-|[**Webserver**](Webserver/)|Raspberry Pi|Wolltest du schon immer mal deine eigene Website erstellen? Dann sieh dir dieses Projekt an.|
+|[**Webserver**](../si-it-prwrkpckg-webserver)|Raspberry Pi|Wolltest du schon immer mal deine eigene Website erstellen? Dann sieh dir dieses Projekt an.|
 |[**AdGuard Home**](<AdGuard Home/>)|Raspberry Pi|Hier lernst du nervige Werbung in deinem Heimnetzwerk zu blockieren.|
 |[**Container**](Container/)|Raspberry Pi, Webserver, AdGuard Home|Du möchtest einen Webserver und AdGuard Home auf dem gleichen System laufen lassen? Dann ist dieses Projekt das richtige für dich.|
 |[**Softwareprojekt**]()|/|Du kannst schon programmieren? Hier findest du ein kleines Projekt (sogar mit Musterlösung)!|
