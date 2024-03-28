@@ -1,7 +1,6 @@
 # Pre-Work-Package
 ## Onboarding neue IT Azubis
 
-
 Wie du vor allem in den ersten Wochen der Ausbildung merken wirst, bestehen zwischen den Azubis große Unterschiede, was bereits erlangtes Wissen in den verschiedenen IT-Bereichen angeht.  
 Der eine hat vielleicht noch nie von [*Raspberry Pis*](https://www.raspberrypi.com/about/) gehört, der nächste setzt bereits selbstständig 3D-Drucker auf. **Aber lass dich davon nicht abschrecken**, denn den Ausbildern ist das bewusst.
 
@@ -13,7 +12,6 @@ Das Paket dient also wirklich nur dazu, dein Interesse für die IT zu wecken (fa
 
 Übrigens: Beide Fachrichtungen *Anwendungsentwicklung* und *Systemintegration* sind im ersten Lehrjahr identisch,  
 deswegen existiert auch nur ein allgemeines Onboarding-Paket für alle Auszubildenden!  
-
 
 ## Miniprojekte
 Hier findest du die Links zu den einzelnen Projekten. In den Anleitungen selbst findest du zum einen klar erläuterte Vorgehensweisen zu den praktischen Projekten, aber auch Verweise auf hilfreiche theoretische Inhalte sowie kurze Erklärungen. Alle Projekte lassen sich auf dem Raspberry Pi durchführen. Beim Softwareprojekt ist es aber ratsam, auf einen Rechner mit mehr Leistung umzusteigen.
@@ -29,3 +27,10 @@ Beim Beginn der einzelnen Projekte ist es sinnvoll, jeweils eine frische Raspber
 |[**AdGuard Home**](../../../si-it-prwrkpckg-adguard)|Raspberry Pi|Hier lernst du nervige Werbung in deinem Heimnetzwerk zu blockieren.|
 |[**Container**](../../../si-it-prwrkpckg-containerisierung)|Raspberry Pi, Webserver, AdGuard Home|Du möchtest einen Webserver und AdGuard Home auf dem gleichen System laufen lassen? Dann ist dieses Projekt das richtige für dich.|
 |[**Softwareprojekt**](../../../ae-it-prwrkpckg-tictactoe)|/|Du kannst schon programmieren? Hier findest du ein kleines Projekt (sogar mit Musterlösung)!|
+
+## Weitere Projektideen
+Wenn du noch nach weiteren Projektideen suchst, kannst du dich von diesen Büchern inspirieren lassen:
+- [Raspberry Pi - Handbuch für Anfänger (TODO)]()
+- [Raspberry Pi Official Handbook (TODO)]()
+- [Projects Book Vol. 4 (TODO)]()
+- [Projects Book Vol. 5 (TODO)]()
