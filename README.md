@@ -30,7 +30,7 @@ Beim Beginn der einzelnen Projekte ist es sinnvoll, jeweils eine frische Raspber
 
 ## Weitere Projektideen
 Wenn du noch nach weiteren Projektideen suchst, kannst du dich von diesen Büchern inspirieren lassen:
-- [Raspberry Pi - Handbuch für Anfänger (TODO)]()
-- [Raspberry Pi Official Handbook (TODO)]()
-- [Projects Book Vol. 4 (TODO)]()
-- [Projects Book Vol. 5 (TODO)]()
+- [Raspberry Pi - Handbuch für Anfänger](Books/BeginnersGuide-4thEdition-2020.pdf)
+- [Raspberry Pi Official Handbook](Books/Handbook-2023.pdf)
+- [Projects Book Vol. 4](Books/Projects_Book_v4_2018.pdf)
+- [Projects Book Vol. 5](Books/Projects_Book_v5_2019.pdf)
